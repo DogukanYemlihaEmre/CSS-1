@@ -1,0 +1,69 @@
+.boyu{ 
+    font-size: x-large;
+
+}
+
+
+.ortanca {
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1 {
+    color: red;
+    font-size: 200%;
+}
+
+nav {
+    font-size: 110%;
+}
+
+h2 {
+    font-size: 150%;
+    color: purple;
+}
+h3 {
+    color: rgb(182, 121, 46);
+}
+
+#liste {
+margin-right: 3%;
+}
+
+
+/*************************************************  ****************************************
+.h3 {
+    color: white;
+    background-color: brown;
+    font-weight: bold;
+    border-radius: 1rem;
+
+}
+
+#content {
+margin: 3rem auto;
+margin-right: 9rem;
+width: 60%;
+}
+
+
+#title {
+margin-left: 3rem;
+}
+.info {
+display: inline-block;
+padding: 5px;
+text-decoration: underline;
+}
+.info {
+color: brown;
+font-weight: bold;
+}
+.Afiyet {
+font-size: 2rem;
+float: right;
+margin-right: 15rem;
+font-weight: bold;
+font-family: "Roboto Mono", monospace;
+}
+**/
